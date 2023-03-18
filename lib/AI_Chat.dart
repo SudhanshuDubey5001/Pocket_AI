@@ -23,6 +23,7 @@ class _AI_ChatState extends State<AI_Chat> {
   int i = 0;
 
   bool gotkey = false;
+  String unused = "";
 
   List<Messages> msg = [];
 
